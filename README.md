@@ -1,4 +1,4 @@
-mkdirp for JSX
+mkdirp for JSX [![Build Status](https://travis-ci.org/yosuke-furukawa/mkdirp.jsx.png?branch=master)](https://travis-ci.org/yosuke-furukawa/mkdirp.jsx)
 ===============
 
 mkdirp can make directories full path.
